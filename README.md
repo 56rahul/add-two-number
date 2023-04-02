@@ -1,1 +1,1 @@
-# add-two-number
+# armstrong number
